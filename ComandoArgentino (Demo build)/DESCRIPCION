@@ -1,5 +1,5 @@
-Esta es la carpeta del minijuego Piedra Papel Tijera
+Demo del mini juego COMANDO ARGENTINO, basicamente tenes que defender la bandera de 5 oleadas.
 
-En este momento esta en la version 1.0, mas adelante planeo agregarle emojis para representar la eleccion de la CPU a los costados y asi dale mas "vida".
+Build hecha en Unity, programado en C# y sprites basados en Metal Slug.
 
-Hecho con HTML, CSS y JavaScript.
+Simplemente clona la demo y ejecuta el exe para probar.
