@@ -1,5 +1,3 @@
-# Piedra, Papel o Tijera
+# Web dev
 
-Mini juego hecho con HTML, CSS y JS.
-
-Version 1.0
+Repositorio con algunos proyecto randoms
